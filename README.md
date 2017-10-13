@@ -15,13 +15,13 @@ We use [Metalsmith](http://www.metalsmith.io/), a static generator in NodeJS.
 2. Now clone this repository:
 
     ```sh
-    $ git clone https://github.com/dracula/dracula-theme.git
+    $ git clone https://github.com/dracula/dracula.github.io
     ```
 
 3. Then go to the project's folder:
 
     ```sh
-    $ cd dracula-theme
+    $ cd dracula.github.io
     ```
 
 4. Move to the `site` branch:
